@@ -1,0 +1,1 @@
+This Bot will manage a whatsApp account
